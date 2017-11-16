@@ -23,7 +23,7 @@ if a == 0:
     exit
 
 # Job submission code.
-# Note: This code requires Abaqus 6.12-4 to be installed on the system to execute.
+# Note: This code requires Abaqus 6.12-4 to be installed on the system.
 for i in range(0, a):
     new_jobfile = target_files[i]
     new_jobname = new_jobfile.split('.')[0]
