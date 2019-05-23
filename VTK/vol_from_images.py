@@ -19,7 +19,7 @@ image_type = 'dicom'
 
 # path to files
 
-path = 'E:\\SoFIA3\\test_conversion\\SOF008'  # Enter path to dicom files
+path = 'C:\\Some\\folder\\folder'  # Enter path to dicom files
 
 # read in images
 
